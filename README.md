@@ -25,8 +25,8 @@ The project involved:
 
 ## 📁 Repository Contents
 
-- `PowerBI_DataProfessionals.pbix` – Final Power BI project  
-- `DataProfessionalSurvey.csv` – Dataset from Alex The Analyst  
+- `Project.pbix` – Final Power BI project  
+- `Power BI - Final Project.xlsx` – Dataset from Alex The Analyst  
 - `Screenshots/` – Dashboard preview images  
 - `README.md` – This file
 
