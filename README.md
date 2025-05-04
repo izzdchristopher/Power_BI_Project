@@ -23,6 +23,11 @@ The project involved:
 - Applying **DAX** for analysis
 - Designing an interactive **Power BI dashboard** to highlight insights
 
+ ## 📸 Dashboard Preview
+
+![Data_Dashboard](Screenshot1.png)
+![Data_Dashboard](Screenshot2.png)
+
 ## 📁 Repository Contents
 
 - `Project.pbix` – Final Power BI project  
